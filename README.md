@@ -1,1 +1,1 @@
-# learning-kaggle
+# AI4E: Python and Math courses
